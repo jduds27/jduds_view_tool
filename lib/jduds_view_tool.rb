@@ -3,4 +3,4 @@ require "jduds_view_tool/renderer"
 
 class Renderer
  
- end
+end
